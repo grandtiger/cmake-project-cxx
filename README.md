@@ -1,14 +1,25 @@
-# cmake-program-c
+# cmake-project-cxx
 _____________________________________________________________________________________________________
 Description.
 -------------------------------------------------------------------------------------------
-Simpe CMake project template for C program. seems like a good candidate for adding on additions the you may find useful 
-for basic C programs
+This is a simple general purpose CMake project template written for C++ programmers. 
+
+This template includes a unit testing framework.
+
+The external folder is also for libraryies and frameworks that you would like to add to your project(s). 
+
+
+
+Main features
+-------------------------------------------------------------------------------------------
+Uses cmake to generate build system files.
+* [Catch2 framework](https://github.com/catchorg/Catch2.git) as the main unit testing framework.
+
+* also comes with some utility functions.
+
 
 Requirements.
 -------------------------------------------------------------------------------------------
-These are the base requirements to build and use for this project from a source package (as described below):
-
 * [CMake](https://cmake.org/) v3.12.2 or newer.
 
 
