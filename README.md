@@ -6,7 +6,7 @@ This is a simple general purpose CMake project template written for C++ programm
 
 This template includes a unit testing framework.
 
-The external folder is also for libraryies and frameworks that you would like to add to your project(s). 
+The external folder is also for libraries and frameworks that you would like to add to your project(s). 
 
 
 
